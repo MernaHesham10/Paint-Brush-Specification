@@ -58,3 +58,6 @@ The Open button enables users to load an image onto the drawing area, providing 
 5. Use the Eraser button to selectively remove parts of your drawings.
 6. Clear all drawings with the Clear All button.
 7. Explore additional features like Undo, Save, and Open.
+
+## Project Video
+[Paint Brush Specification](https://www.linkedin.com/posts/mernahesham_aepaesaecaeqaesaeq-iti-intake44-activity-7153020330482032641-g50Q?utm_source=share&utm_medium=member_desktop)
