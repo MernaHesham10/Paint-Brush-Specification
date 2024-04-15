@@ -3,7 +3,7 @@ Java App using javax
 
 # Paint Brush Application
 
-## Abstract
+## Description
 
 Paint Brush is a Java Swing-based application designed to provide users with a platform to create drawings using basic shapes, various colors, and line strokes. The application supports features such as clearing all drawings, erasing specific parts of the drawings, and incorporating undo operations for added user convenience.
 
